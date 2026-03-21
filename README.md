@@ -1,9 +1,6 @@
 #  Soy Elvin Isaí Portillo Martínez
 
 ### 🚀 Desarrollador de Aplicaciones Multiplataforma | Me gusta la IA y la Robótica
-
-Soy un desarrollador en formación en **Barcelona**, actualmente cursando mi primer año de **DAM en el Instituto Tecnológico de Barcelona**. No me centro en un solo lenguaje; me gusta entender la lógica de la programación para resolver problemas de una buena manera y crear software que ayude a las personas en su día a día.
-
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -38,30 +35,6 @@ Para garantizar el éxito de mis proyectos y colaboraciones, utilizo metodologí
 - **Gestión Ágil:** Experiencia trabajando con **SCRUM**, participando en dailies y organización de sprints.
 - **Organización:** Uso avanzado de **Trello** para la gestión de tareas, backlog y flujo de trabajo (Kanban).
 - **Control de Versiones:** Dominio de **Git/GitHub** para el trabajo colaborativo y control de código.
-
----
-
-## 📂 Proyectos Destacados
-
-### ☁️ **Pi Cloud**
-Infraestructura cloud con clúster de Raspberry Pi. Incluye servidor Web en DMZ, NAS con RAID y firewall IPFire.
-- **Tecnologías:** Redes, Seguridad, Linux, JavaScript
-- **Destacado:** Implementación de seguridad perimetral y almacenamiento distribuido.
-
-### 📱 **ITB Trivial App**
-Aplicación nativa de cuestionarios técnicos con lógica de estados compleja.
-- **Tecnologías:** Kotlin, Android Studio, View Binding
-- **Destacado:** Manejo de temporizadores, selectores de dificultad y persistencia de puntuación.
-
-### 💰 **WealthFamily**
-Gestor de finanzas personales para escritorio con alertas SMART.
-- **Tecnologías:** Electron, TypeScript, Chart.js
-- **Destacado:** Control de gastos por categorías y visualización de datos mediante gráficos.
-
-### 🤖 **Arduino RC Car**
-Coche controlado por Bluetooth mediante interfaz personalizada.
-- **Tecnologías:** C++ (Arduino), Bluetooth, RemoteXY, Electrónica
-- **Destacado:** Uso de servos, motores DC y pantallas OLED para mostrar el estado.
 
 ---
 
