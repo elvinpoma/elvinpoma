@@ -10,8 +10,9 @@ Soy un desarrollador en formación en **Barcelona**, actualmente cursando mi pri
 
 ### 📱 Desarrollo Multiplataforma
 - **Mobile:** [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/elvinpoma), [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/elvinpoma) 
-- **Web & Backend:** [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma), [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/elvinpoma), HTML5, CSS3 (Arquitectura modular)
-- **Low Level:** [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/elvinpoma) ([![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/elvinpoma), Proyectos de Robótica)
+- **Web & Backend:** [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma), [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/elvinpoma), [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/elvinpoma), 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/elvinpoma)
+- **Low Level:** [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/elvinpoma)  para  [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/elvinpoma), [![Robótica](https://img.shields.io/badge/Robótica-525252?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/elvinpoma)
 
 ### 🧠 IA & Datos
 - **IA:** Agentes de IA, Skills AI, Integración de soluciones inteligentes
@@ -19,7 +20,7 @@ Soy un desarrollador en formación en **Barcelona**, actualmente cursando mi pri
 - **APIs:** Conocimientos en API REST
 
 ### ⚙️ Sistemas & Infraestructura
-- **Servidores:** Configuración de servidores web y NAS con Raspberry Pi
+- **Servidores:** Configuración de servidores web y NAS con [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/elvinpoma)
 - **Seguridad:** Firewall IPFire, Configuración de DMZ
 - **Hardware:** RAID, Electrónica aplicada a Robótica
 
