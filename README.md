@@ -64,13 +64,6 @@ Coche controlado por Bluetooth mediante interfaz personalizada.
 - **Destacado:** Uso de servos, motores DC y pantallas OLED para mostrar el estado.
 
 ---
-## 🎓 Formación & Certificaciones
-
-- 🏫 **CFGS Desarrollo de Aplicaciones Multiplataforma** - Instituto Tecnológico de Barcelona (En curso).
-- 🏫 **CFGM Sistemas Microinformáticos y Redes** - Instituto Tecnológico de Barcelona.
-- 🧪 **Especialización en IA:** Desarrollo de Agentes, Skills IA y Prompt Engineering.
-
----
 
 ## 💡 Mis Fortalezas
 
