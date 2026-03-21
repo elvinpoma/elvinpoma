@@ -1,9 +1,9 @@
 #  Soy Elvin Isaí Portillo Martínez
 
-### 🚀 Desarrollador de Aplicaciones Multiplataforma | Me gusta la IA y la Robótica
+###  Desarrollador de Aplicaciones Multiplataforma | Me gusta la IA y la Robótica
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### 📱 Desarrollo Multiplataforma & Web
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/elvinpoma)
@@ -29,7 +29,7 @@
 [![NAS](https://img.shields.io/badge/NAS-0078D4?style=for-the-badge&logo=amazons3&logoColor=white)](https://github.com/elvinpoma)
 
 ---
-## 👥 Trabajo en Equipo & Metodología
+##  Trabajo en Equipo & Metodología
 
 Para garantizar el éxito de mis proyectos y colaboraciones, utilizo metodologías ágiles que permiten una entrega de valor continua:
 - **Gestión Ágil:** Experiencia trabajando con **SCRUM**, participando en dailies y organización de sprints.
@@ -38,17 +38,17 @@ Para garantizar el éxito de mis proyectos y colaboraciones, utilizo metodologí
 
 ---
 
-## 💡 Mis Fortalezas
+##  Mis Fortalezas
 
 
-- 🎯 **Aprendizaje rápido:** Miro la lógica de programación más allá del lenguaje y soy capaz de trabajar en mobile, web o hardware.
-- 🛠️ **Full-stack Junior:** Capaz de trabajar desde la infraestructura (servidores/redes) hasta la interfaz de usuario.
-- 🤖 **Visión de Futuro:** Integración de agentes de IA en aplicaciones convencionales.
-- ✨ **Clean Code:** Me agrada trabajar con la escritura de código legible y mantenible.
+-  **Aprendizaje rápido:** Miro la lógica de programación más allá del lenguaje y soy capaz de trabajar en mobile, web o hardware.
+-  **Full-stack Junior:** Capaz de trabajar desde la infraestructura (servidores/redes) hasta la interfaz de usuario.
+-  **Visión de Futuro:** Integración de agentes de IA en aplicaciones convencionales.
+-  **Clean Code:** Me agrada trabajar con la escritura de código legible y mantenible.
 
 ---
 
-## 📈 Mi Momento Actual
+##  Mi Momento Actual
 
 - 🔭 **Estudios:** Cursando Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 - 🌱 **Enfoque:** Perfeccionando el desarrollo nativo con Kotlin y la gestión de bases de datos relacionales.
