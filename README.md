@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Elvin Isaí Portillo Martínez
 
-### 🚀 Desarrollador de Aplicaciones Multiplataforma | Entusiasta de la IA y la Robótica
+### 🚀 Desarrollador de Aplicaciones Multiplataforma | Me gusta la IA y la Robótica
 
 Soy un desarrollador en formación en **Barcelona**, actualmente cursando mi primer año de **DAM en el Instituto Tecnológico de Barcelona**. No me centro en un solo lenguaje; me gusta entender la lógica de la programación para resolver problemas de una buena manera y crear software que ayude a las personas en su día a día.
 
@@ -9,14 +9,13 @@ Soy un desarrollador en formación en **Barcelona**, actualmente cursando mi pri
 ## 🛠️ Stack Tecnológico
 
 ### 📱 Desarrollo Multiplataforma
-- **Mobile:** Kotlin, Android Studio 
-- **Web & Backend:** JavaScript, Node.js, HTML5, CSS3 (Arquitectura modular)
-- **Desktop:** Electron, TypeScript
-- **Low Level:** C++ (Arduino, Proyectos de Robótica)
+- **Mobile:** [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/elvinpoma), Android Studio 
+- **Web & Backend:** [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma), Node.js, HTML5, CSS3 (Arquitectura modular)
+- **Low Level:** [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/elvinpoma) (Arduino, Proyectos de Robótica)
 
 ### 🧠 IA & Datos
 - **IA:** Agentes de IA, Skills AI, Integración de soluciones inteligentes
-- **Bases de Datos:** PostgreSQL, JDBC (Gestión de datos y conectividad)
+- **Bases de Datos:** [![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/elvinpoma), JDBC (Gestión de datos y conectividad)
 - **APIs:** Conocimientos en API REST
 
 ### ⚙️ Sistemas & Infraestructura
@@ -30,7 +29,6 @@ Soy un desarrollador en formación en **Barcelona**, actualmente cursando mi pri
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/elvinpoma)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/elvinpoma)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/elvinpoma)
 [![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/elvinpoma)
 
