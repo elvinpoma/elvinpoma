@@ -10,7 +10,7 @@ Soy un desarrollador en formación en **Barcelona**, actualmente cursando mi pri
 
 ### 📱 Desarrollo Multiplataforma
 - **Mobile:** [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/elvinpoma), [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/elvinpoma) 
-- **Web & Backend:** [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma), Node.js, HTML5, CSS3 (Arquitectura modular)
+- **Web & Backend:** [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma), [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/elvinpoma), HTML5, CSS3 (Arquitectura modular)
 - **Low Level:** [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/elvinpoma) ([![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/elvinpoma), Proyectos de Robótica)
 
 ### 🧠 IA & Datos
