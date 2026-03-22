@@ -30,7 +30,6 @@
 ---
 ##  Trabajo en Equipo & Metodología
 
-Para garantizar el éxito de mis proyectos y colaboraciones, utilizo metodologías ágiles que permiten una entrega de valor continua:
 - **Gestión Ágil:** Experiencia trabajando con **SCRUM**, participando en dailies y organización de sprints.
 - **Organización:** Uso avanzado de **Trello** para la gestión de tareas, backlog y flujo de trabajo (Kanban).
 - **Control de Versiones:** Dominio de **Git/GitHub** para el trabajo colaborativo y control de código.
@@ -61,6 +60,3 @@ Para garantizar el éxito de mis proyectos y colaboraciones, utilizo metodologí
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvinpoma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvin.isai.port.mart@gmail.com)
 
----
-
-**¡Gracias por visitar mi perfil! Estoy abierto a oportunidades de aprendizaje y proyectos colaborativos.**
