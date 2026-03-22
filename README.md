@@ -1,6 +1,6 @@
-#  Soy Elvin Isaí Portillo Martínez
+#  Elvin Isaí Portillo Martínez
 
-###  Desarrollador de Aplicaciones Multiplataforma | Me gusta la IA y la Robótica
+###  Desarrollador de Aplicaciones Multiplataforma
 ---
 
 ##  Stack Tecnológico
