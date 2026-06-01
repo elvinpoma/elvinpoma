@@ -5,7 +5,7 @@
 
 ##  Stack Tecnológico
 
-### 📱 Desarrollo Multiplataforma & Web
+###  Desarrollo Multiplataforma & Web
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/elvinpoma)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/elvinpoma)
@@ -13,14 +13,14 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/elvinpoma)
 
 
-### 🤖 IA, Robótica & Sistemas
+###  IA, Robótica & Sistemas
 [![Robótica](https://img.shields.io/badge/Robótica-525252?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/elvinpoma)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/elvinpoma)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/elvinpoma)
 [![IA](https://img.shields.io/badge/IA-FF6C37?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/elvinpoma)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/elvinpoma)
 
-### 📊 Datos & Conectividad
+###  Datos & Conectividad
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/elvinpoma)
 [![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=insomnia&logoColor=white)](https://github.com/elvinpoma)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://github.com/elvinpoma)
@@ -48,9 +48,9 @@
 
 ##  Mi Momento Actual
 
-- 🔭 **Estudios:** Cursando Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
-- 🌱 **Enfoque:** Perfeccionando el desarrollo nativo con Kotlin y la gestión de bases de datos relacionales.
-- ⚡ **Interés:** La intersección entre la robótica, la IA y las aplicaciones móviles.
+-  **Estudios:** Cursando Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+-  **Enfoque:** Perfeccionando el desarrollo nativo con Kotlin y la gestión de bases de datos relacionales.
+-  **Interés:** La intersección entre la robótica, la IA y las aplicaciones móviles.
 
 ---
 
