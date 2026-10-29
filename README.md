@@ -25,6 +25,7 @@
 
 ###  Datos & Conectividad
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/elvinpoma)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/elvinpoma)
 [![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=insomnia&logoColor=white)](https://github.com/elvinpoma)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://github.com/elvinpoma)
 [![LAMP](https://img.shields.io/badge/Stack-LAMP-777BB4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/elvinpoma)
@@ -46,6 +47,7 @@
 -  **Full-stack Junior:** Capaz de trabajar desde la infraestructura (servidores/redes) hasta la interfaz de usuario.
 -  **Visión de Futuro:** Integración de agentes de IA en aplicaciones convencionales.
 -  **Clean Code:** Me agrada trabajar con la escritura de código legible y mantenible.
+-  **Cloud Computing:** Conocimientos básicos en Google Cloud y fundamentos de servicios en la nube.
 
 ---
 
