@@ -11,6 +11,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/elvinpoma)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/elvinpoma)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/elvinpoma)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/elvinpoma)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/elvinpoma)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/elvinpoma)
@@ -35,7 +36,7 @@
 ##  Trabajo en Equipo & Metodología
 
 - **Gestión Ágil:** Experiencia trabajando con **SCRUM**, participando en dailies y organización de sprints.
-- **Organización:** Uso avanzado de **Trello** para la gestión de tareas, backlog y flujo de trabajo (Kanban).
+- **Organización:** Uso avanzado de **Trello** y **ProofHub** (tipo Trello / ProofHub) para la gestión de tareas, backlog y flujo de trabajo.
 - **Control de Versiones:** Dominio de **Git/GitHub** para el trabajo colaborativo y control de código.
 
 ---
@@ -64,4 +65,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-isaí-portillo-martínez-6127883a3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvinpoma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvin.isai.port.mart@gmail.com)
+
 
