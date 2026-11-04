@@ -4,6 +4,10 @@
 
 </div>
 
+## Sobre mí
+
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado en crear soluciones que conecten software, sistemas y hardware. Disfruto aprendiendo mediante proyectos y explorando aplicaciones prácticas para la inteligencia artificial y la robótica.
+
 ## Stack tecnológico
 
 ### Desarrollo multiplataforma y web
@@ -35,24 +39,18 @@
 [![LAMP](https://img.shields.io/badge/Stack-LAMP-777BB4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/elvinpoma)
 [![NAS](https://img.shields.io/badge/NAS-0078D4?style=for-the-badge&logo=amazons3&logoColor=white)](https://github.com/elvinpoma)
 
----
-
 <div align="center">
 
 ### Desarrollador de Aplicaciones Multiplataforma · Backend · Sistemas · IA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=8FAF5A&center=true&vCenter=true&width=640&lines=Del+c%C3%B3digo+a+soluciones+que+sirven;Kotlin%2C+datos+y+curiosidad+t%C3%A9cnica;Ideas+que+van+de+la+pantalla+al+hardware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Del+c%C3%B3digo+a+soluciones+que+sirven;Kotlin%2C+datos+y+curiosidad+t%C3%A9cnica;Ideas+que+van+de+la+pantalla+al+hardware)](https://git.io/typing-svg)
 
-[![Seguidores](https://img.shields.io/github/followers/elvinpoma?label=Seguidores&style=for-the-badge&color=556B2F&labelColor=1b2117)](https://github.com/elvinpoma?tab=followers)
-[![Visitas al perfil](https://komarev.com/ghpvc/?username=elvinpoma&style=for-the-badge&color=6B8E23&label=VISITAS&labelColor=1b2117)](https://github.com/elvinpoma)
+[![Seguidores](https://img.shields.io/github/followers/elvinpoma?label=Seguidores&style=for-the-badge&color=30363D&labelColor=161B22)](https://github.com/elvinpoma?tab=followers)
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=elvinpoma&style=for-the-badge&color=30363D&label=VISITAS&labelColor=161B22)](https://github.com/elvinpoma)
 
 </div>
 
 ---
-
-## Sobre mí
-
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado en crear soluciones que conecten software, sistemas y hardware. Disfruto aprendiendo mediante proyectos y explorando aplicaciones prácticas para la inteligencia artificial y la robótica.
 
 ## GitHub Stats
 
@@ -62,7 +60,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 <img height="180" src="profile/top-langs.svg" alt="Lenguajes más usados por Elvin" />
 
 </div>
-
 
 ---
 
