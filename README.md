@@ -63,7 +63,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 
 </div>
 
-*Las tarjetas se generan y actualizan automáticamente con GitHub Actions.*
 
 ---
 
