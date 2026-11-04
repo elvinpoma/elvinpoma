@@ -35,6 +35,8 @@
 [![LAMP](https://img.shields.io/badge/Stack-LAMP-777BB4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/elvinpoma)
 [![NAS](https://img.shields.io/badge/NAS-0078D4?style=for-the-badge&logo=amazons3&logoColor=white)](https://github.com/elvinpoma)
 
+---
+
 <div align="center">
 
 ### Desarrollador de Aplicaciones Multiplataforma · Backend · Sistemas · IA
