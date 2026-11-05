@@ -13,7 +13,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 ### Desarrollo multiplataforma y web
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/elvinpoma)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/elvinpoma)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/elvinpoma)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/elvinpoma)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/elvinpoma)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/elvinpoma)
@@ -24,18 +24,18 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 
 ### IA, robótica y sistemas
 
-[![Robótica](https://img.shields.io/badge/Rob%C3%B3tica-525252?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/elvinpoma)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/elvinpoma)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/elvinpoma)
+[![Robótica](https://img.shields.io/badge/Rob%C3%B3tica-525252?style=for-the-badge&logo=robotframework&logoColor=white)](https://github.com/elvinpoma)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/elvinpoma)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/elvinpoma)
 [![IA](https://img.shields.io/badge/IA-FF6C37?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/elvinpoma)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/elvinpoma)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/elvinpoma)
 
 ### Datos y conectividad
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/elvinpoma)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/elvinpoma)
 [![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=insomnia&logoColor=white)](https://github.com/elvinpoma)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://github.com/elvinpoma)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/elvinpoma)
 [![LAMP](https://img.shields.io/badge/Stack-LAMP-777BB4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/elvinpoma)
 [![NAS](https://img.shields.io/badge/NAS-0078D4?style=for-the-badge&logo=amazons3&logoColor=white)](https://github.com/elvinpoma)
 
@@ -79,6 +79,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 
 ## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-isa%C3%AD-portillo-mart%C3%ADnez-6127883a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-isai-portillo-martinez-6127883a3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvinpoma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvin.isai.port.mart@gmail.com)
