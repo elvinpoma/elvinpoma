@@ -2,13 +2,26 @@
 
 # Elvin Isaí Portillo Martínez
 
+[![Seguidores](https://img.shields.io/github/followers/elvinpoma?label=Seguidores&style=for-the-badge&color=30363D&labelColor=161B22)](https://github.com/elvinpoma?tab=followers)
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=elvinpoma&style=for-the-badge&color=30363D&label=VISITAS&labelColor=161B22)](https://github.com/elvinpoma)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Del+c%C3%B3digo+a+soluciones+que+sirven;Conectando+software+sistemas+y+hardware;Desarrollo+backend+apps+e+inteligencia+artificial)](https://github.com/elvinpoma)
+
 </div>
+
+---
 
 ## Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado en crear soluciones que conecten software, sistemas y hardware. Disfruto aprendiendo mediante proyectos y explorando aplicaciones prácticas para la inteligencia artificial y la robótica.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado en crear soluciones que conecten software, sistemas y hardware. Disfruto aprendiendo mediante proyectos y explorando aplicaciones prácticas de la robótica y la inteligencia artificial.
+
+---
 
 ## Stack tecnológico
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
 
 ### Desarrollo multiplataforma y web
 
@@ -22,6 +35,10 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/elvinpoma)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/elvinpoma)
 
+</td>
+
+<td align="center" width="33%" valign="top">
+
 ### IA, robótica y sistemas
 
 [![Robótica](https://img.shields.io/badge/Rob%C3%B3tica-525252?style=for-the-badge&logo=robotframework&logoColor=white)](https://github.com/elvinpoma)
@@ -29,6 +46,10 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/elvinpoma)
 [![IA](https://img.shields.io/badge/IA-FF6C37?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/elvinpoma)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/elvinpoma)
+
+</td>
+
+<td align="center" width="34%" valign="top">
 
 ### Datos y conectividad
 
@@ -39,16 +60,9 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 [![LAMP](https://img.shields.io/badge/Stack-LAMP-777BB4?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/elvinpoma)
 [![NAS](https://img.shields.io/badge/NAS-0078D4?style=for-the-badge&logo=amazons3&logoColor=white)](https://github.com/elvinpoma)
 
-<div align="center">
-
-### Desarrollador de Aplicaciones Multiplataforma · Backend · Sistemas · IA
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Del+c%C3%B3digo+a+soluciones+que+sirven;Kotlin%2C+datos+y+curiosidad+t%C3%A9cnica;Ideas+que+van+de+la+pantalla+al+hardware)](https://git.io/typing-svg)
-
-[![Seguidores](https://img.shields.io/github/followers/elvinpoma?label=Seguidores&style=for-the-badge&color=30363D&labelColor=161B22)](https://github.com/elvinpoma?tab=followers)
-[![Visitas al perfil](https://komarev.com/ghpvc/?username=elvinpoma&style=for-the-badge&color=30363D&label=VISITAS&labelColor=161B22)](https://github.com/elvinpoma)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,6 +93,10 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, interesado e
 
 ## 📫 Conectemos
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvinisa%C3%ADportillomart%C3%ADnez/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvinpoma)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvin.isai.port.mart@gmail.com)
+
+</div>
